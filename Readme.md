@@ -1,7 +1,7 @@
 # 🚨 AI Stock News Alert Agent
 
 
-This project is an AI-powered agent that scans stock news in real time, evaluates market impact using Gemini, and sends Telegram alerts — now with a Streamlit dashboard!
+This project is an AI-powered agent that scans stock news in real time, evaluates market impact using Gemini, and sends Telegram alerts
 
 ---
 
